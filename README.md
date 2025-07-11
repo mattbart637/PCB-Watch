@@ -1,7 +1,7 @@
 # PCB Watch
 
 <p style="text-align:center;">
-<img src="./images/Watch.jpg" alt="Alt Text" style="width:30%; height:auto;">
+<img src="./images/Watch.jpg" alt="Alt Text" style="width:40%; height:auto;">
 </p>
 
 A digital watch with a PIC16 and 4-digit segmented LCD display on a 2-layer PCB. It's my first microcontroller project outside the Arduino environment and the smallest SMT soldering I've done to date.
